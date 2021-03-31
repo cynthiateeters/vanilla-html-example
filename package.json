@@ -10,6 +10,10 @@
   "author": "Cynthia Teeters <cynthia.teeters@raritanval.edu> (https://github.com/cynthiateeters)",
   "license": "MIT",
   "dependencies": {
-    "node-fetch": "^2.6.1"
+     "axios": "^0.21.1",
+    "dotenv": "^8.2.0",
+    "node-fetch": "^2.6.1",
+    "process": "^0.11.10",
+    "qs": "^6.7.0"
   }
 }
